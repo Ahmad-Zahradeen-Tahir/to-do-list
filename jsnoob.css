@@ -1,0 +1,59 @@
+body {
+    width: 100%;
+    height: 100%;
+    
+}
+
+#app {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(122, 122, 122);
+}
+
+#head {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+
+#text {
+    padding: 5px;
+    font-size: 16px;
+}
+
+#content {
+    border: 1px solid black;
+}
+
+.listItem {
+    padding: 10px;
+    margin: 5px;
+    width: 80%;
+    border-top: 1px solid silver;
+    font-size: 20px;
+}
+
+#button {
+    padding: 10px;
+    font-size: 18px;
+    color: black;
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.delbtn {
+    padding: 5px;
+    float: right;
+    color: white;
+    background-color: red;
+    border: 1px solid white;
+    border-radius: 5px;
+}
